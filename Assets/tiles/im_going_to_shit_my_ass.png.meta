@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: a587cd4b3bbc0ca458ae7572d2472c31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8034278388257452656
+    second: im_going_to_shit_my_ass_0
+  - first:
+      213: -1358381924918915999
+    second: im_going_to_shit_my_ass_1
+  - first:
+      213: 5871774098188339955
+    second: im_going_to_shit_my_ass_2
+  - first:
+      213: -2592956571413223530
+    second: im_going_to_shit_my_ass_3
+  - first:
+      213: 8572550527832402371
+    second: im_going_to_shit_my_ass_4
+  - first:
+      213: 8592948149562793575
+    second: im_going_to_shit_my_ass_5
+  - first:
+      213: 7282358414748632828
+    second: im_going_to_shit_my_ass_6
+  - first:
+      213: 2123645044164052197
+    second: im_going_to_shit_my_ass_7
+  - first:
+      213: 5435780545467043305
+    second: im_going_to_shit_my_ass_8
+  - first:
+      213: 2320249523753510619
+    second: im_going_to_shit_my_ass_9
+  - first:
+      213: 3370345846314008506
+    second: im_going_to_shit_my_ass_10
+  - first:
+      213: 6529015408798287605
+    second: im_going_to_shit_my_ass_11
+  - first:
+      213: -3677162417599866607
+    second: im_going_to_shit_my_ass_12
+  - first:
+      213: 7432615869327140056
+    second: im_going_to_shit_my_ass_13
+  - first:
+      213: 4376990436233447289
+    second: im_going_to_shit_my_ass_14
+  - first:
+      213: -3288830272858369265
+    second: im_going_to_shit_my_ass_15
+  - first:
+      213: 7996839603934016434
+    second: im_going_to_shit_my_ass_16
+  - first:
+      213: 6515546641179742028
+    second: im_going_to_shit_my_ass_17
+  - first:
+      213: 7257896121433222032
+    second: im_going_to_shit_my_ass_18
+  - first:
+      213: 332754761315413216
+    second: im_going_to_shit_my_ass_19
+  - first:
+      213: -6594724933929106646
+    second: im_going_to_shit_my_ass_20
+  - first:
+      213: 353749092656747650
+    second: im_going_to_shit_my_ass_21
+  - first:
+      213: -7758556429775647508
+    second: im_going_to_shit_my_ass_22
+  - first:
+      213: -6958187674987378539
+    second: im_going_to_shit_my_ass_23
+  - first:
+      213: -1548854891015623
+    second: im_going_to_shit_my_ass_24
+  - first:
+      213: 628155057768128504
+    second: im_going_to_shit_my_ass_25
+  - first:
+      213: 7591202878594459071
+    second: im_going_to_shit_my_ass_26
+  - first:
+      213: -1717169614081967714
+    second: im_going_to_shit_my_ass_27
+  - first:
+      213: -3385457748053617196
+    second: im_going_to_shit_my_ass_28
+  - first:
+      213: 8395457688174800147
+    second: im_going_to_shit_my_ass_29
+  - first:
+      213: -603134860903716267
+    second: im_going_to_shit_my_ass_30
+  - first:
+      213: 8472629163155667644
+    second: im_going_to_shit_my_ass_31
+  - first:
+      213: -3358695351391886798
+    second: im_going_to_shit_my_ass_32
+  - first:
+      213: 4943113269659410915
+    second: im_going_to_shit_my_ass_33
+  - first:
+      213: -4356249175669621166
+    second: im_going_to_shit_my_ass_34
+  - first:
+      213: 7601350538008724937
+    second: im_going_to_shit_my_ass_35
+  - first:
+      213: -4506853761116403614
+    second: im_going_to_shit_my_ass_36
+  - first:
+      213: 4762112419416972724
+    second: im_going_to_shit_my_ass_37
+  - first:
+      213: 3870179235492249170
+    second: im_going_to_shit_my_ass_38
+  - first:
+      213: -3867089405406140177
+    second: im_going_to_shit_my_ass_39
+  - first:
+      213: -1985139460082041938
+    second: im_going_to_shit_my_ass_40
+  - first:
+      213: 5107345662313314364
+    second: im_going_to_shit_my_ass_41
+  - first:
+      213: 4633456568934108179
+    second: im_going_to_shit_my_ass_42
+  - first:
+      213: -8173428303825565222
+    second: im_going_to_shit_my_ass_43
+  - first:
+      213: 7048267313692924708
+    second: im_going_to_shit_my_ass_44
+  - first:
+      213: 4314602027810361135
+    second: im_going_to_shit_my_ass_45
+  - first:
+      213: 6579120319994963915
+    second: im_going_to_shit_my_ass_46
+  - first:
+      213: -1726635570166587289
+    second: im_going_to_shit_my_ass_47
+  - first:
+      213: 4036098615896840936
+    second: im_going_to_shit_my_ass_48
+  - first:
+      213: -8701215030880860671
+    second: im_going_to_shit_my_ass_49
+  - first:
+      213: 5404829712647401392
+    second: im_going_to_shit_my_ass_50
+  - first:
+      213: -8085752100284463969
+    second: im_going_to_shit_my_ass_51
+  - first:
+      213: 2122361139968474803
+    second: im_going_to_shit_my_ass_52
+  - first:
+      213: -6817208160836391808
+    second: im_going_to_shit_my_ass_53
+  - first:
+      213: 1349321548039796168
+    second: im_going_to_shit_my_ass_54
+  - first:
+      213: -8003056899954370595
+    second: im_going_to_shit_my_ass_55
+  - first:
+      213: 6024691893892405672
+    second: im_going_to_shit_my_ass_56
+  - first:
+      213: -6565175238997257227
+    second: im_going_to_shit_my_ass_57
+  - first:
+      213: 6147608019811870057
+    second: im_going_to_shit_my_ass_58
+  - first:
+      213: -3108895554566956685
+    second: im_going_to_shit_my_ass_59
+  - first:
+      213: 5078670740333691761
+    second: im_going_to_shit_my_ass_60
+  - first:
+      213: -1228524135042971201
+    second: im_going_to_shit_my_ass_61
+  - first:
+      213: -8153643932687176811
+    second: im_going_to_shit_my_ass_62
+  - first:
+      213: -3610380361912752733
+    second: im_going_to_shit_my_ass_63
+  - first:
+      213: 8907593130869376728
+    second: im_going_to_shit_my_ass_64
+  - first:
+      213: 2580688083696020854
+    second: im_going_to_shit_my_ass_65
+  - first:
+      213: 30278815955792593
+    second: im_going_to_shit_my_ass_66
+  - first:
+      213: -3609172204824991142
+    second: im_going_to_shit_my_ass_67
+  - first:
+      213: -3705040755552368091
+    second: im_going_to_shit_my_ass_68
+  - first:
+      213: -2509257419539476069
+    second: im_going_to_shit_my_ass_69
+  - first:
+      213: -857396133822004769
+    second: im_going_to_shit_my_ass_70
+  - first:
+      213: 6309598994155196530
+    second: im_going_to_shit_my_ass_71
+  - first:
+      213: 9130112784155286268
+    second: im_going_to_shit_my_ass_72
+  - first:
+      213: -6683867736642146667
+    second: im_going_to_shit_my_ass_73
+  - first:
+      213: -697991901007103574
+    second: im_going_to_shit_my_ass_74
+  - first:
+      213: -242012347189048137
+    second: im_going_to_shit_my_ass_75
+  - first:
+      213: -3977391918675405666
+    second: im_going_to_shit_my_ass_76
+  - first:
+      213: -8270710172718868583
+    second: im_going_to_shit_my_ass_77
+  - first:
+      213: -1908245149127452793
+    second: im_going_to_shit_my_ass_78
+  - first:
+      213: -4836632389423654174
+    second: im_going_to_shit_my_ass_79
+  - first:
+      213: -1037375587790948263
+    second: im_going_to_shit_my_ass_80
+  - first:
+      213: -5595044420416719514
+    second: im_going_to_shit_my_ass_81
+  - first:
+      213: 5363838273233231045
+    second: im_going_to_shit_my_ass_82
+  - first:
+      213: -692148148435309480
+    second: im_going_to_shit_my_ass_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072feae60ad7f7f60800000000000000
+      internalID: 8034278388257452656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c85e716de062de0800000000000000
+      internalID: -1358381924918915999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0bdbae6bbc7150800000000000000
+      internalID: 5871774098188339955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69766e28cb7f30cd0800000000000000
+      internalID: -2592956571413223530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9a9862941d7f670800000000000000
+      internalID: 8572550527832402371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5a0c80d8404770800000000000000
+      internalID: 8592948149562793575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64b260562201560800000000000000
+      internalID: 7282358414748632828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4ca668ae3b87d10800000000000000
+      internalID: 2123645044164052197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b66b6811a39b460800000000000000
+      internalID: 7257896121433222032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec668141be2e9400800000000000000
+      internalID: 332754761315413216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238eb9ec94da74a0800000000000000
+      internalID: -6594724933929106646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841c6fece4c8e400800000000000000
+      internalID: 353749092656747650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec4661a802145490800000000000000
+      internalID: -7758556429775647508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59840e7fc2d8f6f90800000000000000
+      internalID: -6958187674987378539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932996e135f7afff0800000000000000
+      internalID: -1548854891015623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff522a62b7a7b800800000000000000
+      internalID: 628155057768128504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680602f1607471c0800000000000000
+      internalID: -4506853761116403614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd13d3c30c661240800000000000000
+      internalID: 4762112419416972724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ebb947283a5b530800000000000000
+      internalID: 3870179235492249170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8271caca6555ac0800000000000000
+      internalID: -3867089405406140177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabf234cd2e5374e0800000000000000
+      internalID: -1985139460082041938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38315be1dfe0e640800000000000000
+      internalID: 5107345662313314364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c848943385d4040800000000000000
+      internalID: 4633456568934108179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98a592346229e80800000000000000
+      internalID: -8173428303825565222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c531b68cc0c9b210800000000000000
+      internalID: 1349321548039796168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71bf8c62e6fe090800000000000000
+      internalID: -8003056899954370595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d1a87b510c9350800000000000000
+      internalID: 6024691893892405672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d06767efc3e4a0800000000000000
+      internalID: -6565175238997257227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965aa3f2ce0b05550800000000000000
+      internalID: 6147608019811870057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379de3af6fbfad4d0800000000000000
+      internalID: -3108895554566956685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17382c061201b7640800000000000000
+      internalID: 5078670740333691761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: im_going_to_shit_my_ass_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb905c4eec763fee0800000000000000
+      internalID: -1228524135042971201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
