@@ -154,7 +154,7 @@ public class PlayerController : MonoBehaviour
             hot = false;
     }
 
-    public void Death(Collider2D col) { // TODO: make this not shitty
+    public void Death(Collider2D col) {
         audioSource.PlayOneShot(death);
         velocity = 0;
         rb.velocity = Vector3.zero;
