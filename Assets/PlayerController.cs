@@ -71,9 +71,6 @@ public class PlayerController : MonoBehaviour
     }
 
     void FixedUpdate() { 
-        // this movement method is really shitty, I wrote this when I was sleep deprived and couldn't think of any better way to do it and now I don't have time to fix it so enjoy
-        // also causes strange problems with the player getting stuck between tiles on the tilemaps
-
         float x = Input.GetAxis("Horizontal");
 
         if (x != 0 && doMovement) {
