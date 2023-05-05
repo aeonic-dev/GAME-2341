@@ -276,6 +276,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -285,8 +286,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -307,6 +308,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -1022,6 +1025,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      im_going_to_shit_my_ass_2: 5871774098188339955
+      im_going_to_shit_my_ass_4: 8572550527832402371
+      im_going_to_shit_my_ass_42: 4633456568934108179
+      im_going_to_shit_my_ass_55: -8003056899954370595
+      im_going_to_shit_my_ass_23: -6958187674987378539
+      im_going_to_shit_my_ass_22: -7758556429775647508
+      im_going_to_shit_my_ass_1: -1358381924918915999
+      im_going_to_shit_my_ass_37: 4762112419416972724
+      im_going_to_shit_my_ass_54: 1349321548039796168
+      im_going_to_shit_my_ass_18: 7257896121433222032
+      im_going_to_shit_my_ass_3: -2592956571413223530
+      im_going_to_shit_my_ass_60: 5078670740333691761
+      im_going_to_shit_my_ass_41: 5107345662313314364
+      im_going_to_shit_my_ass_0: 8034278388257452656
+      im_going_to_shit_my_ass_21: 353749092656747650
+      im_going_to_shit_my_ass_20: -6594724933929106646
+      im_going_to_shit_my_ass_38: 3870179235492249170
+      im_going_to_shit_my_ass_24: -1548854891015623
+      im_going_to_shit_my_ass_39: -3867089405406140177
+      im_going_to_shit_my_ass_19: 332754761315413216
+      im_going_to_shit_my_ass_56: 6024691893892405672
+      im_going_to_shit_my_ass_43: -8173428303825565222
+      im_going_to_shit_my_ass_58: 6147608019811870057
+      im_going_to_shit_my_ass_7: 2123645044164052197
+      im_going_to_shit_my_ass_57: -6565175238997257227
+      im_going_to_shit_my_ass_40: -1985139460082041938
+      im_going_to_shit_my_ass_59: -3108895554566956685
+      im_going_to_shit_my_ass_36: -4506853761116403614
+      im_going_to_shit_my_ass_5: 8592948149562793575
+      im_going_to_shit_my_ass_6: 7282358414748632828
+      im_going_to_shit_my_ass_61: -1228524135042971201
+      im_going_to_shit_my_ass_25: 628155057768128504
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
